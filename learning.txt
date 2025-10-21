@@ -1,0 +1,4 @@
+I have learned how to commit a message on Git
+I have learned how to initialize a git repository
+I have learned how to stage a file on git
+I have also learned how to modify a file and i dentify it 
